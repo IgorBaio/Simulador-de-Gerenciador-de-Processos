@@ -12,13 +12,19 @@ public class CriaProcessos {
 		
 	}
 	
+	public static ProcessoIO criaProcIO() {
+		ProcessoIO pIO = new ProcessoIO();
+		pIO = (ProcessoIO) criaProcesso(pIO, 15);
+		return pIO;
+	}
+	
 	private static Processo criaProcesso(Processo proc, int tempo) {
 		
 		Random gerador = new Random();
 		int tempoTotal = gerador.nextInt(800) + 200;
 		float aux = gerador.nextInt(10) + tempo;
 		int tempoCpu = (int) (tempoTotal * (aux / 100));
-		proc.setTempoCPU(tempoCpu);
+		proc.setTempoCpu(tempoCpu);
 
 		int tempoIo = tempoTotal - tempoCpu;
 
@@ -66,12 +72,7 @@ public class CriaProcessos {
 		return vetor;
 	}
 	
-	public static ProcessoIO criaProcIO() {
-		ProcessoIO pIO = new ProcessoIO();
-		pIO = (ProcessoIO) criaProcesso(pIO, 15);
-		return pIO;
-	}
-
+	
 	public static void retornaPorcentProcesso(int quantidade, double porcentagem) {
 		ArrayList<Processo> lista = new ArrayList<Processo>();
 		double num = 0;

@@ -1,6 +1,6 @@
 package model;
 
-public class Escalonador2 implements Escalonador{
+public class Escalonador2 extends Escalonador{
 
 	@Override
 	public void escalonar() {
