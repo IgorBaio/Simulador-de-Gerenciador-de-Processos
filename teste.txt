@@ -1,0 +1,9 @@
+<list>
+  <model.ProcessoIO>
+    <tempoCPU>127</tempoCPU>
+    <tempoRede>383</tempoRede>
+    <tempoVideo>8</tempoVideo>
+    <tempoMemoria>31</tempoMemoria>
+    <tempoTeclado>3</tempoTeclado>
+  </model.ProcessoIO>
+</list>

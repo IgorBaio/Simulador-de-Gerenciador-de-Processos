@@ -1,0 +1,16 @@
+<list>
+  <processo>
+    <tempoCPU>118</tempoCPU>
+    <tempoRede>6</tempoRede>
+    <tempoVideo>433</tempoVideo>
+    <tempoMemoria>6</tempoMemoria>
+    <tempoTeclado>0</tempoTeclado>
+  </processo>
+  <processo>
+    <tempoCPU>300</tempoCPU>
+    <tempoRede>4</tempoRede>
+    <tempoVideo>0</tempoVideo>
+    <tempoMemoria>40</tempoMemoria>
+    <tempoTeclado>29</tempoTeclado>
+  </processo>
+</list>

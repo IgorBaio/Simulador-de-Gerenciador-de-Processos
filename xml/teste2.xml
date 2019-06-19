@@ -1,0 +1,30 @@
+<list>
+  <processo>
+    <tempoCPU>89</tempoCPU>
+    <tempoRede>162</tempoRede>
+    <tempoVideo>77</tempoVideo>
+    <tempoMemoria>18</tempoMemoria>
+    <tempoTeclado>37</tempoTeclado>
+  </processo>
+  <processo>
+    <tempoCPU>58</tempoCPU>
+    <tempoRede>53</tempoRede>
+    <tempoVideo>69</tempoVideo>
+    <tempoMemoria>46</tempoMemoria>
+    <tempoTeclado>12</tempoTeclado>
+  </processo>
+  <processo>
+    <tempoCPU>91</tempoCPU>
+    <tempoRede>79</tempoRede>
+    <tempoVideo>161</tempoVideo>
+    <tempoMemoria>88</tempoMemoria>
+    <tempoTeclado>34</tempoTeclado>
+  </processo>
+  <processo>
+    <tempoCPU>280</tempoCPU>
+    <tempoRede>34</tempoRede>
+    <tempoVideo>34</tempoVideo>
+    <tempoMemoria>4</tempoMemoria>
+    <tempoTeclado>2</tempoTeclado>
+  </processo>
+</list>

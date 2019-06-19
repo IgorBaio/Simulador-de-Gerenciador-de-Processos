@@ -1,0 +1,23 @@
+<list>
+  <processo>
+    <tempoCPU>1725</tempoCPU>
+    <tempoRede>4606</tempoRede>
+    <tempoVideo>2616</tempoVideo>
+    <tempoMemoria>133</tempoMemoria>
+    <tempoTeclado>447</tempoTeclado>
+  </processo>
+  <processo>
+    <tempoCPU>2084</tempoCPU>
+    <tempoRede>2322</tempoRede>
+    <tempoVideo>4991</tempoVideo>
+    <tempoMemoria>384</tempoMemoria>
+    <tempoTeclado>55</tempoTeclado>
+  </processo>
+  <processo>
+    <tempoCPU>2105</tempoCPU>
+    <tempoRede>116</tempoRede>
+    <tempoVideo>7261</tempoVideo>
+    <tempoMemoria>46</tempoMemoria>
+    <tempoTeclado>34</tempoTeclado>
+  </processo>
+</list>
